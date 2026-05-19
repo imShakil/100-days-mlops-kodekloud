@@ -40,7 +40,7 @@ By the end of the 100 days, you should be able to:
 
 ## Challenge Progress
 
-![6%](https://progress-bar.xyz/6)
+![7%](https://progress-bar.xyz/7)
 
 ## Daily Challenges
 
@@ -52,7 +52,7 @@ By the end of the 100 days, you should be able to:
 | 04 | Create a Standard ML Project Structure | repository structure, packaging, conventions | [Solved](days/004.md) |
 | 05 | Create a Makefile for ML Workflow Automation | Makefile, task automation, developer workflow | [Solved](days/005.md) |
 | 06 | Set Up Code Quality Tools for ML Code | linting, formatting, static analysis | [Solved](days/006.md) |
-| 07 | Package an ML Project as Installable Python Package | packaging, setuptools, installation | Pending |
+| 07 | Package an ML Project as Installable Python Package | packaging, setuptools, installation | [Solved](days/007.md) |
 | 08 | Configure Pre-Commit Hooks for ML Repository | pre-commit, git hooks, code quality | Pending |
 | 09 | Create a Custom ML Project Template with Cookiecutter | Cookiecutter, templates, scaffolding | Pending |
 | 10 | Install and Initialize DVC in an ML Project | DVC, data versioning, initialization | Pending |
