@@ -1,0 +1,7 @@
+{% if cookiecutter.ml_framework == 'sklearn' %}
+scikit-learn
+{% elif cookiecutter.ml_framework == 'pytorch' %}
+torch
+{% elif cookiecutter.ml_framework == 'tensorflow' %}
+tensorflow
+{% endif %}
