@@ -1,0 +1,9 @@
+transaction_id,amount,merchant,category,is_fraud
+1006,12.99,StoreF,groceries,0
+1001,25.5,StoreA,groceries,0
+1008,2100.0,OnlineShopH,electronics,1
+1003,45.0,RestaurantC,dining,0
+1010,78.0,StoreJ,groceries,0
+1005,3200.0,OnlineShopE,electronics,1
+1004,890.0,StoreD,clothing,0
+1007,567.0,StoreG,clothing,0
