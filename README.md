@@ -40,7 +40,7 @@ By the end of the 100 days, you should be able to:
 
 ## Challenge Progress
 
-![18%](https://progress-bar.xyz/18)
+![19%](https://progress-bar.xyz/19)
 
 ## Daily Challenges
 
@@ -64,7 +64,7 @@ By the end of the 100 days, you should be able to:
 | 16 | Track ML Metrics with DVC | DVC, metrics, experiment tracking | [Solved](days/016.md) |
 | 17 | Run and Compare DVC Experiments | DVC, experiments, comparison | [Solved](days/017.md) |
 | 18 | Version Datasets and Models Across Git Branches | Git branches, model versioning, datasets | [Solved](days/018.md) |
-| 19 | Build Complete DVC ML Pipeline with Remote Storage and Experiments | DVC, remote storage, full pipeline | Pending |
+| 19 | Build Complete DVC ML Pipeline with Remote Storage and Experiments | DVC, remote storage, full pipeline | [Solved](days/019.md) |
 | 20 | Install and Start the MLflow Tracking Server | MLflow, tracking server, setup | Pending |
 | 21 | Log an ML Experiment to MLflow | MLflow, experiment logging, runs | Pending |
 | 22 | Create and Organize MLflow Experiments | MLflow, experiment management, organization | Pending |
